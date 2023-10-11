@@ -13,7 +13,7 @@ public class TreinoForcaFactory implements WidgetFactory {
 
     @Override
     public TextBox createTextBox() {
-       return new TreinoForcaTextBox();
+        return new TreinoForcaTextBox();
     }
-    
+
 }

@@ -7,7 +7,7 @@ public class comecoZeroButton implements Button{
 
     @Override
     public void render() {
-        System.out.println("Selecionou começou do zero, Button!");
+        System.out.println("Selecionou o começou do zero, Button!");
     }
    
 }
